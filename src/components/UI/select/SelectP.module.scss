@@ -1,0 +1,16 @@
+.container{
+  min-width: 50%;
+  min-height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.select{
+  height: 30px;
+  border: none;
+  border-bottom: 1px solid #007bff;
+  font-size: 20px;
+  background-color: inherit;
+  outline: none;
+}
